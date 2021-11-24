@@ -38,5 +38,7 @@ https://www.youtube.com/watch?v=230zlnKkl3A
 
 Docker: https://www.youtube.com/watch?v=WcQ3-M4-jik
 SQL & Dapper: https://www.youtube.com/watch?v=dwMFg6uxQ0I
+EF Core: https://www.youtube.com/watch?v=qkJ9keBmQWo
+
 
 - Attributes: https://docs.microsoft.com/en-us/dotnet/api/system.attribute?view=net-6.0
